@@ -1,0 +1,1 @@
+﻿package {		public interface IListDisplay {		function addItem(s:String):void;		function deleteItemAt(n:uint):Boolean;		function clear():void;	}}

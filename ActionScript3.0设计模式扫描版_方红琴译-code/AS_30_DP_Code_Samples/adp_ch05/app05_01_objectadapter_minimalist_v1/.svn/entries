@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="405"
+   name=""
+   committed-date="2007-04-24T01:06:15.957317Z"
+   url="http://dev.chandima.info/svn/pubs/asdp/branches/edits2/adapter/apps/app05_01_objectadapter_minimalist_v1"
+   last-author="chan"
+   kind="dir"
+   repos="http://dev.chandima.info/svn/pubs"
+   revision="405"/>
+<entry
+   committed-rev="405"
+   name="ITarget.as"
+   text-time="2006-09-23T16:52:22.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="8be2ee9cc3e213023518e52109ce95ca"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="405"
+   name="Adapter.as"
+   text-time="2006-09-23T16:52:22.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="e420aa70b9b12ff332edfe5e2f3931d5"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="405"
+   name="Adaptee.as"
+   text-time="2006-09-23T16:52:22.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="ee43e1992752fe2b3e5e76a70ec5cb97"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="405"
+   name="Main.as"
+   text-time="2007-03-19T18:07:44.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="b32d8817e2fc0f2fb3ad9cf1799ab6b0"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="405"
+   name="adapter_example.swf"
+   text-time="2007-03-19T16:54:26.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="6f8c1effd466c8b492a6d9477a869ea3"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:04:27.000000Z"/>
+<entry
+   committed-rev="405"
+   name="adapter_example.flp"
+   text-time="2006-09-23T16:52:22.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="76f39f7c21b82250245b2c126af7fd35"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="405"
+   name="adapter_example.fla"
+   text-time="2006-09-25T20:49:12.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="088b55ea3a2a71ea6e8cba689c758925"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:04:27.000000Z"/>
+</wc-entries>

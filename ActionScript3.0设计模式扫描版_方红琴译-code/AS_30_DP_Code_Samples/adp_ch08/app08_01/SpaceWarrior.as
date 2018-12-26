@@ -1,0 +1,1 @@
+﻿//SpaceWarrior.aspackage{	interface SpaceWarrior	{		function useWeapon():void;	}}

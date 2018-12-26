@@ -1,0 +1,1 @@
+﻿package {		import flash.events.*;		public class Controller implements IKeyboardInputHandler {				private var model:IModel;				public function Controller(aModel:IModel) {			this.model = aModel;		}				public function keyPressHandler(event:KeyboardEvent):void {			model.setKey(event.charCode); // update model		}	}}

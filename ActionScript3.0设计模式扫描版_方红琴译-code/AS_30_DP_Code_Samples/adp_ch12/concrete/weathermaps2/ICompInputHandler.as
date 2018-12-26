@@ -1,0 +1,1 @@
+﻿package {	public interface ICompInputHandler {		function compChangeHandler(index:uint):void	}}

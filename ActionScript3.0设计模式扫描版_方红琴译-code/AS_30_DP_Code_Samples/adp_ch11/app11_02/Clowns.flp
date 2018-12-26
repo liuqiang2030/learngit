@@ -1,0 +1,14 @@
+﻿<flash_project name="Clowns" version="1">
+    <project_file path=".:Clown.as" filetype="as" />
+    <project_file path=".:Koka.as" filetype="as" />
+    <project_file path=".:Bojo.as" filetype="as" />
+    <project_file path=".:Tricks.as" filetype="as" />
+    <project_file path=".:BaloonAnimals.as" filetype="as" />
+    <project_file path=".:Disappear.as" filetype="as" />
+    <project_file path=".:Juggle.as" filetype="as" />
+    <project_file path=".:Skits.as" filetype="as" />
+    <project_file path=".:FallDown.as" filetype="as" />
+    <project_file path=".:Chase.as" filetype="as" />
+    <project_file path=".:ClownCollege.as" filetype="as" />
+    <project_file path=".:ClownCollege.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>

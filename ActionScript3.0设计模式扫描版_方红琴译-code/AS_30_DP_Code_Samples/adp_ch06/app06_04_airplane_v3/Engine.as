@@ -1,0 +1,1 @@
+﻿package {		import flash.events.*		public class Engine extends Component {				public function Engine(weight:Number, damage:Number = 0) {			graphics.lineStyle(20, 0x666666);			graphics.moveTo(0, 0);			graphics.lineTo(0, 30);			graphics.lineStyle(5, 0x000000);			graphics.moveTo(-20, -12);			graphics.lineTo(20, -12);			super(weight, damage);		}	}}

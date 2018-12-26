@@ -1,0 +1,24 @@
+﻿<flash_project name="GoodAndEvil" version="1">
+    <project_file path=".:Decorator.as" filetype="as" />
+    <project_file path=".:Component.as" filetype="as" />
+    <project_file path=".:Rage.as" filetype="as" />
+    <project_file path=".:Prejudice.as" filetype="as" />
+    <project_file path=".:Openness.as" filetype="as" />
+    <project_file path=".:Malice.as" filetype="as" />
+    <project_file path=".:Justice.as" filetype="as" />
+    <project_file path=".:Jane.as" filetype="as" />
+    <project_file path=".:Integrity.as" filetype="as" />
+    <project_file path=".:Indifference.as" filetype="as" />
+    <project_file path=".:Hope.as" filetype="as" />
+    <project_file path=".:Dogmatisms.as" filetype="as" />
+    <project_file path=".:Dick.as" filetype="as" />
+    <project_file path=".:Courage.as" filetype="as" />
+    <project_file path=".:Compassion.as" filetype="as" />
+    <project_file path=".:Arrogance.as" filetype="as" />
+    <project_file path=".:Diligence.as" filetype="as" />
+    <project_file path=".:Obsfuscation.as" filetype="as" />
+    <project_file path=".:SoulChart.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:Soul.as" filetype="as" />
+    <project_file path=".:MainDual.as" filetype="as" />
+    <project_file path=".:Dual.fla" filetype="fla" profile="" />
+</flash_project>

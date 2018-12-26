@@ -1,0 +1,1 @@
+﻿package {	//Abstract class	public class Dresser extends Model	{		override public function getDressed():String		{			return whatToWear;		}	}}

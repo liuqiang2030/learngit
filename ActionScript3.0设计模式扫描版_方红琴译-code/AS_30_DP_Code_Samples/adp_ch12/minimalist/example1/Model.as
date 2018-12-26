@@ -1,0 +1,1 @@
+﻿package {		import flash.events.*;	public class Model extends EventDispatcher implements IModel {				private var lastKeyPressed:uint = 0;				public function setKey(keyCode:uint):void {			this.lastKeyPressed = keyCode;			dispatchEvent(new Event(Event.CHANGE)); // dispatch event		}				public function getKey():uint {			return lastKeyPressed;		}	}}

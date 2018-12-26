@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="406"
+   name=""
+   committed-date="2007-04-24T01:07:18.629141Z"
+   url="http://dev.chandima.info/svn/pubs/asdp/branches/edits2/command/apps/app07_02_numbers_v3"
+   last-author="chan"
+   kind="dir"
+   repos="http://dev.chandima.info/svn/pubs"
+   revision="406"/>
+<entry
+   committed-rev="406"
+   name="InvokerPanel.as"
+   text-time="2007-03-03T02:18:22.000000Z"
+   committed-date="2007-04-24T01:07:18.629141Z"
+   checksum="052661c9cf2c74a56a30d20406918000"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:06:39.000000Z"/>
+<entry
+   committed-rev="406"
+   name="Command.as"
+   text-time="2007-03-03T02:18:22.000000Z"
+   committed-date="2007-04-24T01:07:18.629141Z"
+   checksum="93f252012321ce76aedaf615be9a393d"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:06:39.000000Z"/>
+<entry
+   committed-rev="406"
+   name="InvokerKeyboard.as"
+   text-time="2007-03-03T02:18:22.000000Z"
+   committed-date="2007-04-24T01:07:18.629141Z"
+   checksum="4833d1ae26bf204f8b5065c4751bc4e6"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:06:39.000000Z"/>
+<entry
+   committed-rev="406"
+   name="TextButton.as"
+   text-time="2007-03-03T02:18:22.000000Z"
+   committed-date="2007-04-24T01:07:18.629141Z"
+   checksum="da1073bc280bd0cba69eafdf631ccf3e"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:06:39.000000Z"/>
+<entry
+   committed-rev="406"
+   name="IncrementCommand.as"
+   text-time="2007-03-03T02:18:22.000000Z"
+   committed-date="2007-04-24T01:07:18.629141Z"
+   checksum="240ee68d7c3766ce5393e3b743a4eaf7"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:06:39.000000Z"/>
+<entry
+   committed-rev="406"
+   name="Main.as"
+   text-time="2007-03-03T02:18:22.000000Z"
+   committed-date="2007-04-24T01:07:18.629141Z"
+   checksum="f108ce955462bd6bf122d2ee5044d167"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:06:39.000000Z"/>
+<entry
+   committed-rev="406"
+   name="command_example.swf"
+   text-time="2007-03-03T02:18:22.000000Z"
+   committed-date="2007-04-24T01:07:18.629141Z"
+   checksum="897e9f58f6eb5084b985fb92f11c0561"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:06:39.000000Z"/>
+<entry
+   committed-rev="406"
+   name="DecrementCommand.as"
+   text-time="2007-03-03T02:18:22.000000Z"
+   committed-date="2007-04-24T01:07:18.629141Z"
+   checksum="1f05b43914605c9dcff3c880d03b3acf"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:06:39.000000Z"/>
+<entry
+   committed-rev="406"
+   name="command_example.flp"
+   text-time="2007-03-03T02:18:22.000000Z"
+   committed-date="2007-04-24T01:07:18.629141Z"
+   checksum="c3649abce8c5f60f5acb702a91203006"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:06:39.000000Z"/>
+<entry
+   committed-rev="406"
+   name="ICommand.as"
+   text-time="2007-03-03T02:18:22.000000Z"
+   committed-date="2007-04-24T01:07:18.629141Z"
+   checksum="dc9a902066b0fe8643184744f71b0c26"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:06:39.000000Z"/>
+<entry
+   committed-rev="406"
+   name="command_example.fla"
+   text-time="2007-03-03T02:18:22.000000Z"
+   committed-date="2007-04-24T01:07:18.629141Z"
+   checksum="5f03aa546918df8b7a6e5ea46aa92e54"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:06:39.000000Z"/>
+</wc-entries>

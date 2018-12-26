@@ -1,0 +1,1 @@
+﻿package{	//Observer Interface	public interface Observer	{		function update(news:String,sports:String,stocks:Number,entertainment:String):void;	}}		

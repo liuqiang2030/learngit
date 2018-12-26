@@ -1,0 +1,9 @@
+﻿<flash_project name="ProxyPlayerSym" version="1">
+    <project_file path=".:ISymPlayer.as" filetype="as" />
+    <project_file path=".:SymPlayer1.as" filetype="as" />
+    <project_file path=".:SymPlayer1.fla" filetype="fla" profile="" />
+    <project_file path=".:SymPlayer2.fla" filetype="fla" profile="" />
+    <project_file path=".:SymPlayer2.as" filetype="as" />
+    <project_file path=".:Referee.as" filetype="as" />
+    <project_file path=".:RPS.as" filetype="as" />
+</flash_project>

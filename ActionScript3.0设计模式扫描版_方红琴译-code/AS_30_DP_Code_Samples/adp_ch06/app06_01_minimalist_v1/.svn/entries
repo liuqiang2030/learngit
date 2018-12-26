@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="389"
+   name=""
+   committed-date="2007-04-21T12:51:12.023163Z"
+   url="http://dev.chandima.info/svn/pubs/asdp/branches/edits2/composite/apps/app06_01_minimalist_v1"
+   last-author="chan"
+   kind="dir"
+   uuid="83b49c88-b9eb-4b0f-abf7-414987a05280"
+   repos="http://dev.chandima.info/svn/pubs"
+   revision="400"/>
+<entry
+   committed-rev="389"
+   name="Component.as"
+   text-time="2007-04-21T12:53:48.000000Z"
+   committed-date="2007-04-21T12:51:12.023163Z"
+   checksum="838472ab2ff97cfa5f6c1025b74e1202"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+<entry
+   committed-rev="389"
+   name="Composite.as"
+   text-time="2007-04-21T12:53:48.000000Z"
+   committed-date="2007-04-21T12:51:12.023163Z"
+   checksum="97f0474cec03d250dfd483c2fe87af47"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+<entry
+   committed-rev="389"
+   name="Main.as"
+   text-time="2007-04-21T12:53:49.000000Z"
+   committed-date="2007-04-21T12:51:12.023163Z"
+   checksum="d9fef60c20a747bcbe2572121ac589e9"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+<entry
+   committed-rev="389"
+   name="Leaf.as"
+   text-time="2007-04-21T12:53:49.000000Z"
+   committed-date="2007-04-21T12:51:12.023163Z"
+   checksum="dd7ec78baf9fd7862fa5b907f6af35d1"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+<entry
+   committed-rev="389"
+   name="composite_example.swf"
+   text-time="2007-04-21T12:53:49.000000Z"
+   committed-date="2007-04-21T12:51:12.023163Z"
+   checksum="6a649de7b705e28c8d71c9d1fe5ec104"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+<entry
+   committed-rev="389"
+   name="composite_example.flp"
+   text-time="2007-04-21T12:53:49.000000Z"
+   committed-date="2007-04-21T12:51:12.023163Z"
+   checksum="b07244d125ac5b90858232eaef9ec12f"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+<entry
+   committed-rev="389"
+   name="composite_example.fla"
+   text-time="2007-04-21T12:53:49.000000Z"
+   committed-date="2007-04-21T12:51:12.023163Z"
+   checksum="e1b0114573882dad2605a2248a588533"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+</wc-entries>

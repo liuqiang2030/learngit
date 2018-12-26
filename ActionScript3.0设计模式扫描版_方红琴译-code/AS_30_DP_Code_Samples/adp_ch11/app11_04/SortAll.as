@@ -1,0 +1,1 @@
+﻿package {	//Concrete Strategy	class SortAll implements SortWork	{		public function sorter(a:Array):Array		{			a.sort(Array.CASEINSENSITIVE);			return a;		}	}}

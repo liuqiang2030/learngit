@@ -1,0 +1,1 @@
+﻿package {	class ConcreteContext extends Context	{		public function ConcreteContext()		{			strategy = new ConcreteStrategy();		}	}}

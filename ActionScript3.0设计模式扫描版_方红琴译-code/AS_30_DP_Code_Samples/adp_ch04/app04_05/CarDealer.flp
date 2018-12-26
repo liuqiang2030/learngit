@@ -1,0 +1,14 @@
+﻿<flash_project name="CarDealer" version="1">
+    <project_file path=".:AutoDealer.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:RearViewVideo.as" filetype="as" />
+    <project_file path=".:Auto.as" filetype="as" />
+    <project_file path=".:Deal.as" filetype="as" />
+    <project_file path=".:Prius.as" filetype="as" />
+    <project_file path=".:MP3.as" filetype="as" />
+    <project_file path=".:Mariner.as" filetype="as" />
+    <project_file path=".:HeatedSeats.as" filetype="as" />
+    <project_file path=".:GPS.as" filetype="as" />
+    <project_file path=".:Accord.as" filetype="as" />
+    <project_file path=".:Escape.as" filetype="as" />
+    <project_file path=".:Decorator.as" filetype="as" />
+</flash_project>

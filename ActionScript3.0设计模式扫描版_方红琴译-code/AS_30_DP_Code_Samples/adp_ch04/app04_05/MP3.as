@@ -1,0 +1,1 @@
+﻿package{	public class MP3 extends Decorator	{		var auto:Auto;		public function MP3(auto:Auto) 		{			this.auto=auto;		}		override public function getInformation():String		{			return auto.getInformation() + "  MP3 Player~";		}		override public function price():Number		{			return 267.55 + auto.price();		}	}}

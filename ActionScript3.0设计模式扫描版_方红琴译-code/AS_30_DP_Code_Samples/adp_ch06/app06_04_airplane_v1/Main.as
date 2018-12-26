@@ -1,0 +1,1 @@
+﻿package {		import flash.display.Sprite;	/** 	*	Main Class	*	@ purpose:		Document class for movie	*/	public class Main extends Sprite {				var airPlane:Composite;		public function Main() {						// create airplane			airPlane = new Composite(0.0);			airPlane.x = 250; airPlane.y = 100;			addChild(airPlane);					}	}}

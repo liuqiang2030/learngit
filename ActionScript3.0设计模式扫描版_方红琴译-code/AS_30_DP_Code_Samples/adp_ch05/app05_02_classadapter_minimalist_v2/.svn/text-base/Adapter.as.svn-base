@@ -1,0 +1,1 @@
+﻿package {	public class Adapter extends Adaptee implements ITarget {				public function renamedRequestA():void {			this.requestA();		}				override public function requestB():void {			trace("Called Adapter:requestB()");		}				public function requestD():void {			trace("Called Adapter:requestD()");		}	}}

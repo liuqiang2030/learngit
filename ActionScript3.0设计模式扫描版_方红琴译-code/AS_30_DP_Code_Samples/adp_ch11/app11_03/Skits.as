@@ -1,0 +1,1 @@
+﻿package {	//Skits Interface	interface Skits	{		function skit():void;	}}

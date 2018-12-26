@@ -1,0 +1,1 @@
+﻿package {		public interface ITarget {		function renamedRequestA():void		function requestB():void		function requestC():void		function requestD():void	}}

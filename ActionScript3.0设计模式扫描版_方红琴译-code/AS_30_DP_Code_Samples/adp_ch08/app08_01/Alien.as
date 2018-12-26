@@ -1,0 +1,1 @@
+﻿//Alien.aspackage {	public class Alien implements SpaceWarrior	{		function Alien()		{			//Constructor		}		public function useWeapon():void		{			trace("Zaaaapp!!!");		}	}}

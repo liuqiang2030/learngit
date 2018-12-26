@@ -1,0 +1,14 @@
+﻿<flash_project name="Print Shop" version="1">
+    <project_folder name="printcenters" expanded="true">
+        <project_file path=".:printcenters/WorkgroupPrintjob.as" filetype="as" />
+        <project_file path=".:printcenters/FancyPrintCenter.as" filetype="as" />
+        <project_file path=".:printcenters/HighVolPrintCenter.as" filetype="as" />
+        <project_file path=".:printcenters/InkjetPrintjob.as" filetype="as" />
+        <project_file path=".:printcenters/IPrintjob.as" filetype="as" />
+        <project_file path=".:printcenters/LowVolPrintCenter.as" filetype="as" />
+        <project_file path=".:printcenters/MultifunctionPrintJob.as" filetype="as" />
+        <project_file path=".:printcenters/PrintCenter.as" filetype="as" />
+    </project_folder>
+    <project_file path=".:Main.as" filetype="as" />
+    <project_file path=".:Print Shop.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>

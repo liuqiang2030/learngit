@@ -1,0 +1,1 @@
+﻿package {		import flash.geom.Point;	import flash.events.IEventDispatcher;	public interface ICar extends IEventDispatcher {		function setLoc(pt:Point):void;		function getLoc():Point;		function setColor(color:uint):void;		function getColor():uint;		function addToRotationAngle(nAngle:int):void;		function getRotation():int;			}}

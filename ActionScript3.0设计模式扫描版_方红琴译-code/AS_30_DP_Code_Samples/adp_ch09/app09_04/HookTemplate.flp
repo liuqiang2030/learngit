@@ -1,0 +1,7 @@
+﻿<flash_project name="HookTemplate" version="1">
+    <project_file path=".:TestFlight.fla" filetype="fla" profile="" />
+    <project_file path=".:TestFlight.as" filetype="as" />
+    <project_file path=".:FlightPlan.as" filetype="as" />
+    <project_file path=".:BajaFlight.as" filetype="as" />
+    <project_file path=".:Cloudy.as" filetype="as" />
+</flash_project>

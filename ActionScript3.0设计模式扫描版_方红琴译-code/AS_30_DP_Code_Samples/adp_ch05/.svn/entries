@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="405"
+   name=""
+   committed-date="2007-04-24T01:06:15.957317Z"
+   url="http://dev.chandima.info/svn/pubs/asdp/branches/edits2/adapter/apps"
+   last-author="chan"
+   kind="dir"
+   repos="http://dev.chandima.info/svn/pubs"
+   revision="405"/>
+<entry
+   name="app05_03_legacy_car"
+   kind="dir"/>
+<entry
+   name="app05_03_objectadapter_car_keyboard"
+   kind="dir"/>
+<entry
+   name="app05_04_classadapter_car_keyboard"
+   kind="dir"/>
+<entry
+   name="app05_05_classadapter_list_display_v1"
+   kind="dir"/>
+<entry
+   name="app05_05_classadapter_list_display_v2"
+   kind="dir"/>
+<entry
+   name="app05_05_classadapter_list_display_v3"
+   kind="dir"/>
+<entry
+   name="app05_01_objectadapter_minimalist_v1"
+   kind="dir"/>
+<entry
+   name="app05_02_classadapter_minimalist_v1"
+   kind="dir"/>
+<entry
+   name="app05_01_objectadapter_minimalist_v2"
+   kind="dir"/>
+<entry
+   name="app05_02_classadapter_minimalist_v2"
+   kind="dir"/>
+<entry
+   name="app05_01_objectadapter_minimalist_v3"
+   kind="dir"/>
+<entry
+   name="app05_03_objectadapter_car_mouse"
+   kind="dir"/>
+</wc-entries>

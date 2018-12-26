@@ -1,0 +1,8 @@
+﻿<flash_project name="AbstractStrategy" version="1">
+    <project_file path=".:Strategy.as" filetype="as" />
+    <project_file path=".:TestStrategy.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:ConcreteStrategy.as" filetype="as" />
+    <project_file path=".:TestStrategy.as" filetype="as" />
+    <project_file path=".:Context.as" filetype="as" />
+    <project_file path=".:ConcreteContext.as" filetype="as" />
+</flash_project>

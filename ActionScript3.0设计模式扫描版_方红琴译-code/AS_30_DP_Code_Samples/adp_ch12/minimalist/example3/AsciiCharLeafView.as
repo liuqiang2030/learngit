@@ -1,0 +1,1 @@
+﻿package {		import flash.events.Event;		public class AsciiCharLeafView extends ComponentView {				public function AsciiCharLeafView(aModel:IModel, aController:Object = null) {			super(aModel, aController);		}				override public function update(event:Event = null):void {			// get data from model and update view			trace(String.fromCharCode(model.getKey()));		}	}}

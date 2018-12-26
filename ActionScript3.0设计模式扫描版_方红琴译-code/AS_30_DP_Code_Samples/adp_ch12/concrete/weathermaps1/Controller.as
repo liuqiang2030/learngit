@@ -1,0 +1,1 @@
+﻿package {	public class Controller implements ICompInputHandler {				private var model:Object;				public function Controller(oModel:IModel) {			this.model = oModel;		}				public function compChangeHandler(index:uint):void {			(model as IModel).setRegion(index); // update model		}	}}	

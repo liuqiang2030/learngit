@@ -1,0 +1,12 @@
+﻿<flash_project name="FMSVid" version="1">
+    <project_file path=".:PlayState.as" filetype="as" />
+    <project_file path=".:StopState.as" filetype="as" />
+    <project_file path=".:State.as" filetype="as" />
+    <project_file path=".:VideoWorks.as" filetype="as" />
+    <project_file path=".:NetBtn.as" filetype="as" />
+    <project_file path=".:AppendState.as" filetype="as" />
+    <project_file path=".:PauseState.as" filetype="as" />
+    <project_file path=".:RecordState.as" filetype="as" />
+    <project_file path=".:TestVidFMS.as" filetype="as" />
+    <project_file path=".:PlayTestPublic.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>

@@ -1,0 +1,1 @@
+﻿package {	import flash.display.Sprite;	public class TestStrategy extends Sprite	{		public function TestStrategy()		{			var thinker:Context= new ConcreteContext();			thinker.doStrategy();		}	}}

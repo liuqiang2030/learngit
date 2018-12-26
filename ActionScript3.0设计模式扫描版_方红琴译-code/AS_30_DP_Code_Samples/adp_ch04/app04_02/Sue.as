@@ -1,0 +1,1 @@
+﻿package {	public class Sue extends Model	{		public function Sue()		{			whatToWear="Sue is wearing: ";		}	}}

@@ -1,0 +1,1 @@
+﻿package {		public interface ITarget {		function request():void		function newOperation():void	}}

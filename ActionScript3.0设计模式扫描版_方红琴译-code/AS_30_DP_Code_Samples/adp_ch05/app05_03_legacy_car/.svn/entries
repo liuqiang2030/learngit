@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="405"
+   name=""
+   committed-date="2007-04-24T01:06:15.957317Z"
+   url="http://dev.chandima.info/svn/pubs/asdp/branches/edits2/adapter/apps/app05_03_legacy_car"
+   last-author="chan"
+   kind="dir"
+   repos="http://dev.chandima.info/svn/pubs"
+   revision="405"/>
+<entry
+   committed-rev="405"
+   name="car_example.flp"
+   text-time="2006-09-24T01:03:22.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="f09249117e7a0e250813f43077d67697"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="405"
+   name="car_example.fla"
+   text-time="2006-09-26T02:58:50.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="abf82b6200bf622f6214b9c903137782"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:04:27.000000Z"/>
+<entry
+   committed-rev="405"
+   name="Main.as"
+   text-time="2006-09-24T01:03:22.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="a5e92d775677339dde929298392c5890"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="405"
+   name="LegacyCar.as"
+   text-time="2007-03-19T18:07:44.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="ff08bd43856f94162339ead4148ee45b"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="405"
+   name="car_example.swf"
+   text-time="2007-03-19T18:07:44.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="55286ed08689ffa0d807023f09017fc2"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:04:27.000000Z"/>
+</wc-entries>

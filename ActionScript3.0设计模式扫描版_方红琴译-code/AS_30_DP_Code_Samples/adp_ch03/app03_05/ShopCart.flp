@@ -1,0 +1,5 @@
+﻿<flash_project name="ShopCart" version="1">
+    <project_file path=".:CartTest.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:ShopCart.as" filetype="as" />
+    <project_file path=".:TestCart.as" filetype="as" />
+</flash_project>

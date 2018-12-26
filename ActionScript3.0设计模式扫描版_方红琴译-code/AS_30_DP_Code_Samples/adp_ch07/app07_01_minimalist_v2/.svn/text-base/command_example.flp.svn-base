@@ -1,0 +1,9 @@
+﻿<flash_project name="command_example" version="1">
+    <project_file path=".:ConcreteCommand.as" filetype="as" />
+    <project_file path=".:command_example.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:Main.as" filetype="as" />
+    <project_file path=".:Invoker.as" filetype="as" />
+    <project_file path=".:TimedInvoker.as" filetype="as" />
+    <project_file path=".:Receiver.as" filetype="as" />
+    <project_file path=".:ICommand.as" filetype="as" />
+</flash_project>

@@ -1,0 +1,1 @@
+﻿package {	//Strategy	interface SortWork	{		function sorter(a:Array):Array;	}}

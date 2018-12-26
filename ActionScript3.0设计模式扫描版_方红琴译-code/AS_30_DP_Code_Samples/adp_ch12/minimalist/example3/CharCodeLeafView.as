@@ -1,0 +1,1 @@
+﻿package {		import flash.events.Event;		public class CharCodeLeafView extends ComponentView {				public function CharCodeLeafView(aModel:IModel, aController:Object = null) {			super(aModel, aController);		}				override public function update(event:Event = null):void {			// get data from model and update view			trace(model.getKey());		}	}}

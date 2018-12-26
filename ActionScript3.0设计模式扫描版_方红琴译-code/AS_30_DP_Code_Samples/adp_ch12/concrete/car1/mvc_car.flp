@@ -1,0 +1,12 @@
+﻿<flash_project name="mvc_car" version="1">
+    <project_file path=".:mvc_car.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:CompositeView.as" filetype="as" />
+    <project_file path=".:ComponentView.as" filetype="as" />
+    <project_file path=".:Main.as" filetype="as" />
+    <project_file path=".:CarModel.as" filetype="as" />
+    <project_file path=".:CarView.as" filetype="as" />
+    <project_file path=".:RHController.as" filetype="as" />
+    <project_file path=".:IKeyboardInputHandler.as" filetype="as" />
+    <project_file path=".:KeyboardInputView.as" filetype="as" />
+    <project_file path=".:ICar.as" filetype="as" />
+</flash_project>

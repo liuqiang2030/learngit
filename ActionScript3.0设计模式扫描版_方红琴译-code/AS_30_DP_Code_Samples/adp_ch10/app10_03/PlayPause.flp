@@ -1,0 +1,11 @@
+﻿<flash_project name="PlayPause" version="1">
+    <project_file path=".:TestPause.as" filetype="as" />
+    <project_file path=".:PauseTest.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:StopState.as" filetype="as" />
+    <project_file path=".:State.as" filetype="as" />
+    <project_file path=".:PauseState.as" filetype="as" />
+    <project_file path=".:VideoWorks.as" filetype="as" />
+    <project_file path=".:BtnState.as" filetype="as" />
+    <project_file path=".:PlayState.as" filetype="as" />
+    <project_file path=".:NetBtn.as" filetype="as" />
+</flash_project>

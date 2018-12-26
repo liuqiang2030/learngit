@@ -1,0 +1,1 @@
+﻿package {		import flash.events.*;	public interface IModel extends IEventDispatcher {		function setKey(key:uint):void		function getKey():uint	}}

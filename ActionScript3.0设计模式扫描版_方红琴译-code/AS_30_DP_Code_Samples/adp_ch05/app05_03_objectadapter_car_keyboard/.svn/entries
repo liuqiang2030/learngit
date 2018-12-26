@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="405"
+   name=""
+   committed-date="2007-04-24T01:06:15.957317Z"
+   url="http://dev.chandima.info/svn/pubs/asdp/branches/edits2/adapter/apps/app05_03_objectadapter_car_keyboard"
+   last-author="chan"
+   kind="dir"
+   repos="http://dev.chandima.info/svn/pubs"
+   revision="405"/>
+<entry
+   committed-rev="405"
+   name="car_example.flp"
+   text-time="2006-09-24T02:31:44.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="e5b2ccc1410906999444b083bcef85c8"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="405"
+   name="ICar.as"
+   text-time="2006-09-24T01:03:22.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="abe940af53193f626baa168c8b0c4df2"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="405"
+   name="car_example.fla"
+   text-time="2006-09-24T02:31:44.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="0dc79842e2d87d1bb7eb06951f7ade1d"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:04:27.000000Z"/>
+<entry
+   committed-rev="405"
+   name="Main.as"
+   text-time="2007-03-19T18:07:44.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="d8dd7d95501ba9a131286cd45f3b15a1"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="405"
+   name="CarAdapter.as"
+   text-time="2006-09-24T02:32:14.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="4494825b0131d178cf6a67fe19944504"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="405"
+   name="LegacyCar.as"
+   text-time="2007-03-19T18:07:44.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="ff08bd43856f94162339ead4148ee45b"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="405"
+   name="car_example.swf"
+   text-time="2007-03-19T18:07:44.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="23ace1216706bf681f494804236c9750"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:04:27.000000Z"/>
+</wc-entries>

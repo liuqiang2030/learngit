@@ -1,0 +1,13 @@
+﻿<flash_project name="command_example" version="1">
+    <project_file path=".:command_example.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:Main.as" filetype="as" />
+    <project_file path=".:InvokerPanel.as" filetype="as" />
+    <project_file path=".:TextButton.as" filetype="as" />
+    <project_file path=".:InvokerKeyboard.as" filetype="as" />
+    <project_file path=".:UndoLastCommand.as" filetype="as" />
+    <project_file path=".:ICommand.as" filetype="as" />
+    <project_file path=".:CommandWithUndo.as" filetype="as" />
+    <project_file path=".:command_example.swf" filetype="swf" />
+    <project_file path=".:DecrementCommandWithUndo.as" filetype="as" />
+    <project_file path=".:IncrementCommandWithUndo.as" filetype="as" />
+</flash_project>

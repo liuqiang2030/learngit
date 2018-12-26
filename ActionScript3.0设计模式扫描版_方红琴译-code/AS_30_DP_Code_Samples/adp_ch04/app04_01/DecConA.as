@@ -1,0 +1,1 @@
+﻿package {	//Concrete Decorator "Alpha"	public class DecConA extends Decorator	{		var components:Component;		public function DecConA (components:Component)		{			this.components=components;		}		override public function getInformation ():String		{			return components.getInformation() + " Decoration Alpha:";		}	}}

@@ -1,0 +1,1 @@
+﻿package {	//Make Something Disappear	public class Disappear implements Tricks	{		public function trick():void		{			trace("Now you see it! Presto! It's gone!\n")		}	}}

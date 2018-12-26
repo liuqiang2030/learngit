@@ -1,0 +1,1 @@
+﻿package {	interface Strategy	{		function think():void;	}}

@@ -1,0 +1,1 @@
+﻿package{	//Observer Interface	public interface Observer	{		function update(q1:Number,q2:Number,q3:Number,q4:Number):void;	}}		

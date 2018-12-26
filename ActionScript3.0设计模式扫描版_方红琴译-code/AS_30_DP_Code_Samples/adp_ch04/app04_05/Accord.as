@@ -1,0 +1,1 @@
+﻿package{	public class Accord extends Auto	{		public function Accord() 		{			information = "Accord Hybrid~\n";		}		override public function price():Number		{			return 30990.00;		}	}}

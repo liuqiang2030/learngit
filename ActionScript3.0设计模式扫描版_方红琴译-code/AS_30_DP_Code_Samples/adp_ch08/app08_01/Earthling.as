@@ -1,0 +1,1 @@
+﻿//Earthling.aspackage {	public class Earthling implements SpaceWarrior	{		function Earthling()		{			//Constructor		}		public function useWeapon():void		{			trace("Ka Boom!!!");		}	}}

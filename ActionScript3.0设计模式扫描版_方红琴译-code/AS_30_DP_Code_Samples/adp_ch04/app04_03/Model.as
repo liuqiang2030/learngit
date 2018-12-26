@@ -1,0 +1,1 @@
+﻿package {	//Abstract class	public class Model	{		var whatToWear:String;		public function getDressed():String		{			return whatToWear;		}	}}

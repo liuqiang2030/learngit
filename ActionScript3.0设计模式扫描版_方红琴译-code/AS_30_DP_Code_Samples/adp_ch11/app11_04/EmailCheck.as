@@ -1,0 +1,1 @@
+﻿package {	//Concrete Strategy	class EmailCheck implements StringWork	{		public function stringer(s:String):String		{			var atPlace:int=s.indexOf("@");			if (atPlace != -1 && atPlace !=0 && atPlace != (s.length-1))			{				return "Email address verified";			} else			{				return "Email does not verify.\nMissing or misplaced @ sign";			}		}	}}

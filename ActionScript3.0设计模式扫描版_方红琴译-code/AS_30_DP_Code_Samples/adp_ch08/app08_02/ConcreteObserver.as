@@ -1,0 +1,1 @@
+﻿package{	//Concrete Observer	class ConcreteObserver implements Observer	{		private var light:String;		function ConcreteObserver()		{			trace("=Concrete Observer=");		}		public function update(light:String):void 		{			this.light=light;		}	}}

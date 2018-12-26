@@ -1,0 +1,1 @@
+﻿package {		import flash.events.*;	public interface IChaseHandler {		function chaseHandler(event:TimerEvent):void		function setChaseTarget(car:ICar):void	}}

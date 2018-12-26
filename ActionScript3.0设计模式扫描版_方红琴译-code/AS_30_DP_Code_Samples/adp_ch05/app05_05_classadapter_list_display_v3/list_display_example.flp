@@ -1,0 +1,6 @@
+﻿<flash_project name="list_display_example" version="1">
+    <project_file path=".:Main.as" filetype="as" />
+    <project_file path=".:ListDisplayField.as" filetype="as" />
+    <project_file path=".:list_display_example.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:IListDisplay.as" filetype="as" />
+</flash_project>

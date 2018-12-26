@@ -1,0 +1,19 @@
+﻿<flash_project name="VerticalShooter" version="1">
+    <project_folder name="weapons" expanded="true">
+        <project_file path=".:weapons/Weapon.as" filetype="as" />
+        <project_file path=".:weapons/AlienWeapon.as" filetype="as" />
+        <project_file path=".:weapons/HeroWeapon.as" filetype="as" />
+        <project_file path=".:weapons/HeroCannonBall.as" filetype="as" />
+        <project_file path=".:weapons/AlienMine.as" filetype="as" />
+        <project_file path=".:weapons/AlienCannonBall.as" filetype="as" />
+        <project_file path=".:weapons/Projectile.as" filetype="as" />
+    </project_folder>
+    <project_folder name="ships" expanded="true">
+        <project_file path=".:ships/HeroShip.as" filetype="as" />
+        <project_file path=".:ships/AlienShip.as" filetype="as" />
+        <project_file path=".:ships/ShipCreator.as" filetype="as" />
+        <project_file path=".:ships/Ship.as" filetype="as" />
+    </project_folder>
+    <project_file path=".:Main.as" filetype="as" />
+    <project_file path=".:VerticalShooter.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>

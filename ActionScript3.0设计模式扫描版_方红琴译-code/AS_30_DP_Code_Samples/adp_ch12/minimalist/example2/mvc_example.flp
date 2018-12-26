@@ -1,0 +1,9 @@
+﻿<flash_project name="minimalist_example" version="1">
+    <project_file path=".:mvc_example.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:Main.as" filetype="as" />
+    <project_file path=".:Model.as" filetype="as" />
+    <project_file path=".:View.as" filetype="as" />
+    <project_file path=".:Controller.as" filetype="as" />
+    <project_file path=".:IKeyboardInputHandler.as" filetype="as" />
+    <project_file path=".:IModel.as" filetype="as" />
+</flash_project>

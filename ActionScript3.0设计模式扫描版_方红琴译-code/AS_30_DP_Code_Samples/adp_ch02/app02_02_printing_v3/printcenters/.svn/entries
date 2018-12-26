@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="407"
+   name=""
+   committed-date="2007-04-24T01:08:48.023686Z"
+   url="http://dev.chandima.info/svn/pubs/asdp/branches/edits2/factory%20method/apps/app02_02_printing_v3/printcenters"
+   last-author="chan"
+   kind="dir"
+   repos="http://dev.chandima.info/svn/pubs"
+   revision="407"/>
+<entry
+   committed-rev="407"
+   name="ColorLaserPrintjob.as"
+   text-time="2006-12-14T21:46:48.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="94e38c1107631f9379645b92e2f3d23b"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="PrintCenter.as"
+   text-time="2006-12-14T21:46:48.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="00cbbc32a07ad830456641f5e12aee14"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="HighVolPrintCenter.as"
+   text-time="2006-12-14T21:46:48.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="4bd0e92f3931cbfd57d2fb64212e7849"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="IPrintjob.as"
+   text-time="2006-12-14T21:45:00.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="7dfda39df24d930de2916b9c560d8fb9"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:07:27.000000Z"/>
+<entry
+   committed-rev="407"
+   name="LowVolPrintCenter.as"
+   text-time="2006-12-14T21:46:48.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="c334ec610f1ed6ad3217578ab7caa042"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="NewPrintCenter.as"
+   text-time="2007-03-19T13:40:12.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="45a6fb13822647bd1f6ef30eb37e309d"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="WorkgroupPrintjob.as"
+   text-time="2006-12-14T21:46:48.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="eaad38d16391b6e48bc45e6452b3f76a"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="NewHighVolPrintCenter.as"
+   text-time="2006-12-18T19:20:38.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="ecfc87def86030f1a72d7454bcc3969c"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="NewLowVolPrintCenter.as"
+   text-time="2006-12-18T19:20:38.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="13db03e83f67693a93648b435954fcd7"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="ColorInkjetPrintjob.as"
+   text-time="2006-12-14T21:46:48.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="4f0844dbf027710b8af9aab7e4fc9f3d"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="InkjetPrintjob.as"
+   text-time="2006-12-14T21:46:48.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="94e6786e4cc56b459fe965cd1acb69d9"
+   last-author="chan"
+   kind="file"/>
+</wc-entries>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="395"
+   name=""
+   committed-date="2007-04-21T12:52:21.818314Z"
+   url="http://dev.chandima.info/svn/pubs/asdp/branches/edits2/composite/apps/app06_03_snake_v1"
+   last-author="chan"
+   kind="dir"
+   uuid="83b49c88-b9eb-4b0f-abf7-414987a05280"
+   repos="http://dev.chandima.info/svn/pubs"
+   revision="400"/>
+<entry
+   committed-rev="395"
+   name="snake.swf"
+   text-time="2007-04-21T12:53:47.000000Z"
+   committed-date="2007-04-21T12:52:21.818314Z"
+   checksum="b42aef887abbebd4b25d4cba1da2dc15"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:46.000000Z"/>
+<entry
+   committed-rev="395"
+   name="snake.flp"
+   text-time="2007-04-21T12:53:47.000000Z"
+   committed-date="2007-04-21T12:52:21.818314Z"
+   checksum="0a19551d12b99448f939d07faece174d"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:46.000000Z"/>
+<entry
+   committed-rev="395"
+   name="snake.fla"
+   text-time="2007-04-21T12:53:47.000000Z"
+   committed-date="2007-04-21T12:52:21.818314Z"
+   checksum="496550929408f789ea6d96bc512046ff"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:47.000000Z"/>
+<entry
+   committed-rev="395"
+   name="Head.as"
+   text-time="2007-04-21T12:53:47.000000Z"
+   committed-date="2007-04-21T12:52:21.818314Z"
+   checksum="9c1d9a8f462b9ba4f09f243433b78469"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:47.000000Z"/>
+<entry
+   committed-rev="395"
+   name="Component.as"
+   text-time="2007-04-21T12:53:47.000000Z"
+   committed-date="2007-04-21T12:52:21.818314Z"
+   checksum="f35fe23a49122995ed7c99c065aaefd4"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:47.000000Z"/>
+<entry
+   committed-rev="395"
+   name="Composite.as"
+   text-time="2007-04-21T12:53:47.000000Z"
+   committed-date="2007-04-21T12:52:21.818314Z"
+   checksum="70d03e19d71c19e902969f0dda47c9f3"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:47.000000Z"/>
+<entry
+   committed-rev="395"
+   name="Main.as"
+   text-time="2007-04-21T12:53:47.000000Z"
+   committed-date="2007-04-21T12:52:21.818314Z"
+   checksum="3a69d0b4adb7f27e192b1eba49a4887b"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:47.000000Z"/>
+</wc-entries>

@@ -1,0 +1,1 @@
+﻿package{	public class Prius extends Auto	{		public function Prius() 		{			information = "Toyota Prius Hybrid~\n";			}		override public function price():Number		{			return 21725.00;		}	}}

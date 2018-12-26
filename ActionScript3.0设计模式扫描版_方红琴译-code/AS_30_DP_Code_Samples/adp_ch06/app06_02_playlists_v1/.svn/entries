@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="393"
+   name=""
+   committed-date="2007-04-21T12:51:52.826612Z"
+   url="http://dev.chandima.info/svn/pubs/asdp/branches/edits2/composite/apps/app06_02_playlists_v1"
+   last-author="chan"
+   kind="dir"
+   uuid="83b49c88-b9eb-4b0f-abf7-414987a05280"
+   repos="http://dev.chandima.info/svn/pubs"
+   revision="400"/>
+<entry
+   name="music"
+   kind="dir"/>
+<entry
+   committed-rev="393"
+   name="playlists.swf"
+   text-time="2007-04-21T12:53:48.000000Z"
+   committed-date="2007-04-21T12:51:52.826612Z"
+   checksum="30be9c40cc851ea98e59e6d4ca42f129"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+<entry
+   committed-rev="393"
+   name="Playlist.as"
+   text-time="2007-04-21T12:53:48.000000Z"
+   committed-date="2007-04-21T12:51:52.826612Z"
+   checksum="daa0e979226225dd5aa3361b1524922d"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+<entry
+   committed-rev="393"
+   name="Component.as"
+   text-time="2007-04-21T12:53:48.000000Z"
+   committed-date="2007-04-21T12:51:52.826612Z"
+   checksum="9f432708ed6aa716b86ec5ab0d6de6c9"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+<entry
+   committed-rev="393"
+   name="playlists.flp"
+   text-time="2007-04-21T12:53:48.000000Z"
+   committed-date="2007-04-21T12:51:52.826612Z"
+   checksum="ec9788dc6f968a439a1a489bff8bb60a"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+<entry
+   committed-rev="393"
+   name="playlists.fla"
+   text-time="2007-04-21T12:53:48.000000Z"
+   committed-date="2007-04-21T12:51:52.826612Z"
+   checksum="b3963480c2df0f3d3706fb0b5a4f0557"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+<entry
+   committed-rev="393"
+   name="Main.as"
+   text-time="2007-04-21T12:53:48.000000Z"
+   committed-date="2007-04-21T12:51:52.826612Z"
+   checksum="d3960e47424536db27cdfeda1ee43908"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+<entry
+   committed-rev="393"
+   name="Song.as"
+   text-time="2007-04-21T12:53:48.000000Z"
+   committed-date="2007-04-21T12:51:52.826612Z"
+   checksum="48c94e4b1213b12260a8066313686d19"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+</wc-entries>

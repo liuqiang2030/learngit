@@ -1,0 +1,16 @@
+﻿<flash_project name="StringStrategy" version="1">
+    <project_file path=".:StringChecker.as" filetype="as" />
+    <project_file path=".:Checker.as" filetype="as" />
+    <project_file path=".:StringWork.as" filetype="as" />
+    <project_file path=".:EmailCheck.as" filetype="as" />
+    <project_file path=".:TestStringStrategy.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:TestStringStrategy.as" filetype="as" />
+    <project_file path=".:Passwork.as" filetype="as" />
+    <project_file path=".:PasswordVerify.as" filetype="as" />
+    <project_file path=".:SortBack.as" filetype="as" />
+    <project_file path=".:SortAll.as" filetype="as" />
+    <project_file path=".:SimpleSort.as" filetype="as" />
+    <project_file path=".:SortWork.as" filetype="as" />
+    <project_file path=".:ShowText.as" filetype="as" />
+    <project_file path=".:TextShow.as" filetype="as" />
+</flash_project>

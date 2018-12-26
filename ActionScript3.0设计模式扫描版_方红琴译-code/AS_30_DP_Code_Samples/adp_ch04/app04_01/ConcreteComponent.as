@@ -1,0 +1,1 @@
+﻿package {	//Concrete Component	public class ConcreteComponent extends Component	{		public function ConcreteComponent():void		{			//\u2794 is Unicode for a right-pointing arrow			information = "Concete Component is decorated with \u2794";		}	}}

@@ -1,0 +1,12 @@
+﻿<flash_project name="Factory Method Minimalist" version="1">
+    <project_folder name="example" expanded="true">
+        <project_file path=".:example/CreatorB.as" filetype="as" />
+        <project_file path=".:example/CreatorA.as" filetype="as" />
+        <project_file path=".:example/Product2.as" filetype="as" />
+        <project_file path=".:example/Product1.as" filetype="as" />
+        <project_file path=".:example/Creator.as" filetype="as" />
+        <project_file path=".:example/IProduct.as" filetype="as" />
+    </project_folder>
+    <project_file path=".:Main.as" filetype="as" />
+    <project_file path=".:Factory Method Minimalist.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>

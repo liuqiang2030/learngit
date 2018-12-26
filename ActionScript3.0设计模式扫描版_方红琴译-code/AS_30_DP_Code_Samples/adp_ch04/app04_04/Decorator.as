@@ -1,0 +1,1 @@
+﻿package {	//Abstract class	public class Decorator extends Component	{		override public function getSoul():String		{			return soul;		}		override public function good():Number		{			return goodness;		}		override public function evil():Number		{			return vice;		}	}}

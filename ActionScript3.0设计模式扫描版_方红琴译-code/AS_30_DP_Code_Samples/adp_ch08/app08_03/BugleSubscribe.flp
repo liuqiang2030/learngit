@@ -1,0 +1,8 @@
+﻿<flash_project name="BugleSubscribe" version="1">
+    <project_file path=".:ConcreteSubject.as" filetype="as" />
+    <project_file path=".:Subject.as" filetype="as" />
+    <project_file path=".:ConcreteObserver.as" filetype="as" />
+    <project_file path=".:Observer.as" filetype="as" />
+    <project_file path=".:BugleSubscribe.as" filetype="as" />
+    <project_file path=".:DoBugle.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="407"
+   name=""
+   committed-date="2007-04-24T01:08:48.023686Z"
+   url="http://dev.chandima.info/svn/pubs/asdp/branches/edits2/factory%20method/apps/app02_03_shapes/shapecreators"
+   last-author="chan"
+   kind="dir"
+   repos="http://dev.chandima.info/svn/pubs"
+   revision="407"/>
+<entry
+   committed-rev="407"
+   name="FilledShapeCreator.as"
+   text-time="2006-12-19T01:33:52.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="6b8ed3ae15ebc5346c0f130dee0ae991"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="ShapeCreator.as"
+   text-time="2006-12-19T01:33:52.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="dbeddc00b863725767ea71745c3cd135"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="UnfilledShapeCreator.as"
+   text-time="2006-12-19T01:33:52.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="d3cd3b36191492b6aaa21c3a6848ffe3"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="FilledSquareWidget.as"
+   text-time="2006-12-14T21:46:48.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="56330020d33bc069dc1aadc22df800bc"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="ShapeWidget.as"
+   text-time="2006-12-14T21:46:48.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="d988a353a9da1df7ecd6382d41b8a862"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="SquareWidget.as"
+   text-time="2006-12-14T21:46:48.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="ffa1bdb45cdcaf87f88ebc061706aeca"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="CircleWidget.as"
+   text-time="2006-12-14T21:46:48.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="c8ca67ce8401636e99508818f23175e1"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="FilledCircleWidget.as"
+   text-time="2006-12-14T21:46:48.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="d62076a0289c1ac15b51b8d17fe64d34"
+   last-author="chan"
+   kind="file"/>
+</wc-entries>

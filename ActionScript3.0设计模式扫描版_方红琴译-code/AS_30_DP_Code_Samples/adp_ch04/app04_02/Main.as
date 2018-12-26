@@ -1,0 +1,1 @@
+﻿package{	import flash.display.Sprite;	public class Main extends Sprite	{		public function Main() {			trace("||--Working--||");			var test:Model = new Sue();			test=new Hat(test);			test=new Coat(test);			test=new PinkDress(test);			trace(test.getDressed());			//Gold Line		}	}}

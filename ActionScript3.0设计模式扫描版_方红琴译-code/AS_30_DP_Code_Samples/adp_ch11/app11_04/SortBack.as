@@ -1,0 +1,1 @@
+﻿package {	//Concrete Strategy	class SortBack implements SortWork	{		public function sorter(a:Array):Array		{			a.sort(Array.CASEINSENSITIVE | Array.DESCENDING);			return a;		}	}}

@@ -1,0 +1,1 @@
+﻿package{	public class Mariner extends Auto	{		public function Mariner() 		{			information = "Mercury Mariner Hybrid~\n";		}		override public function price():Number		{			return 29225.00;		}	}}

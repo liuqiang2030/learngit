@@ -1,0 +1,7 @@
+﻿<flash_project name="AbstractShed" version="1">
+    <project_file path=".:ShedMaker.as" filetype="as" />
+    <project_file path=".:WoodShed.as" filetype="as" />
+    <project_file path=".:SteelShed.as" filetype="as" />
+    <project_file path=".:BuildShed.as" filetype="as" />
+    <project_file path=".:TestShed.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>

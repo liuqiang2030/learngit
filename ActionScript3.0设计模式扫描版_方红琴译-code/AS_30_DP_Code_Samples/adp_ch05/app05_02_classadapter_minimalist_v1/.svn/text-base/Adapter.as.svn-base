@@ -1,0 +1,1 @@
+﻿package {	public class Adapter extends Adaptee implements ITarget {				public function request():void {			this.specificRequest();		}	}}

@@ -1,0 +1,1 @@
+﻿package {	//Abstract class	public class Auto	{		var information:String;		var bucks:Number;		public function getInformation():String		{			return information;		}		public function price():Number		{			return bucks;		}	}}

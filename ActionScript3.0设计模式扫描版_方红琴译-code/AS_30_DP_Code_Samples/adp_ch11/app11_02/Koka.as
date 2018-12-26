@@ -1,0 +1,1 @@
+﻿package {	class Koka extends Clown	{		trace("* =>Koka<= *");		public function Koka()		{			tricks = new Disappear();			skits = new Chase();		}	}}

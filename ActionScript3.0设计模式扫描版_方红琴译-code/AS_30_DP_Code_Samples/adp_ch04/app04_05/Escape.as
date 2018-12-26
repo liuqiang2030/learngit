@@ -1,0 +1,1 @@
+﻿package{	public class Escape extends Auto	{		public function Escape() 		{			information = "Ford Escape Hybrid\n~";		}		override public function price():Number		{			return 26240.00;		}	}}

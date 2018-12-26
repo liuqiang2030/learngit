@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="400"
+   name=""
+   committed-date="2007-04-21T12:52:56.478156Z"
+   url="http://dev.chandima.info/svn/pubs/asdp/branches/edits2/composite/apps"
+   last-author="chan"
+   kind="dir"
+   uuid="83b49c88-b9eb-4b0f-abf7-414987a05280"
+   repos="http://dev.chandima.info/svn/pubs"
+   revision="400"/>
+<entry
+   name="app06_03_snake_v1"
+   kind="dir"/>
+<entry
+   name="app06_03_snake_v2"
+   kind="dir"/>
+<entry
+   name="app06_02_playlists_v1"
+   kind="dir"/>
+<entry
+   name="app06_03_snake_v3"
+   kind="dir"/>
+<entry
+   name="app06_01_minimalist_v1"
+   kind="dir"/>
+<entry
+   name="app06_02_playlists_v2"
+   kind="dir"/>
+<entry
+   name="app06_01_minimalist_v2"
+   kind="dir"/>
+<entry
+   name="app06_01_minimalist_v3"
+   kind="dir"/>
+<entry
+   name="app06_01_minimalist_v4"
+   kind="dir"/>
+<entry
+   name="app06_04_airplane_v1"
+   kind="dir"/>
+<entry
+   name="app06_04_airplane_v2"
+   kind="dir"/>
+<entry
+   name="app06_04_airplane_v3"
+   kind="dir"/>
+</wc-entries>

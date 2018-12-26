@@ -1,0 +1,1 @@
+﻿package {		import flash.events.*;	public interface IKeyboardInputHandler {		function keyPressHandler(event:KeyboardEvent):void	}}

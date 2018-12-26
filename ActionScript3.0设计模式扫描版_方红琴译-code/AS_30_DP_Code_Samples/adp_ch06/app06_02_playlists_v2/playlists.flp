@@ -1,0 +1,18 @@
+﻿<flash_project name="playlists" version="1">
+    <project_folder name="music" expanded="false">
+        <project_file path=".:music/tabla.mp3" filetype="mp3" />
+        <project_file path=".:music/djembe.mp3" filetype="mp3" />
+        <project_file path=".:music/bongo.mp3" filetype="mp3" />
+        <project_file path=".:music/latindrums.mp3" filetype="mp3" />
+        <project_file path=".:music/electricpiano.mp3" filetype="mp3" />
+        <project_file path=".:music/acousticguitar.mp3" filetype="mp3" />
+        <project_file path=".:music/electricguitar.mp3" filetype="mp3" />
+        <project_file path=".:music/banjo.mp3" filetype="mp3" />
+        <project_file path=".:music/balladpiano.mp3" filetype="mp3" />
+    </project_folder>
+    <project_file path=".:Main.as" filetype="as" />
+    <project_file path=".:playlists.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:Playlist.as" filetype="as" />
+    <project_file path=".:Component.as" filetype="as" />
+    <project_file path=".:Song.as" filetype="as" />
+</flash_project>

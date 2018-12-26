@@ -1,0 +1,1 @@
+﻿package {	import flash.display.Sprite;	public class TestTemplate extends Sprite	{		public function TestTemplate ()		{			var testPlate:AbstractClass=new ConcreteClass();			testPlate.templateMethod ();		}	}}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="407"
+   name=""
+   committed-date="2007-04-24T01:08:48.023686Z"
+   url="http://dev.chandima.info/svn/pubs/asdp/branches/edits2/factory%20method/apps/app02_02_printing_v1"
+   last-author="chan"
+   kind="dir"
+   repos="http://dev.chandima.info/svn/pubs"
+   revision="407"/>
+<entry
+   name="printcenters"
+   kind="dir"/>
+<entry
+   committed-rev="407"
+   name="Print Shop.swf"
+   text-time="2007-03-19T13:40:12.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="3a9fcddfa70f1f3c4babf7cf5659bb8e"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:07:27.000000Z"/>
+<entry
+   committed-rev="407"
+   name="Main.as"
+   text-time="2007-03-19T13:40:12.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="2ab4922abd1c6c879fcf720a17b5e5af"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="Print Shop.flp"
+   text-time="2006-12-18T19:20:38.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="53f7a60b478efae9e004d143b9ff20ab"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="Print Shop.fla"
+   text-time="2007-03-19T13:40:12.000000Z"
+   committed-date="2007-04-24T01:08:48.023686Z"
+   checksum="3c4cb27a23959cdc28ccb4fa15661ed8"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:07:27.000000Z"/>
+</wc-entries>

@@ -1,0 +1,1 @@
+﻿package {	import flash.text.TextField;	import flash.text.TextFieldType;	class ShowText extends TextField	{		public function ShowText():void		{			this.type=TextFieldType.DYNAMIC;			this.multiline=true;			this.wordWrap=true;			this.border=true;			this.borderColor=0xcccccc;		}	}}

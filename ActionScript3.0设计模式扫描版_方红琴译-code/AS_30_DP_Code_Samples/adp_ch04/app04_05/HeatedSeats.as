@@ -1,0 +1,1 @@
+﻿package{	public class HeatedSeats extends Decorator	{		var auto:Auto;		public function HeatedSeats(auto:Auto) 		{			this.auto=auto;		}		override public function getInformation():String		{			return auto.getInformation() + "  Heated Seats~";		}		override public function price():Number		{			return 350.78 + auto.price();		}	}}

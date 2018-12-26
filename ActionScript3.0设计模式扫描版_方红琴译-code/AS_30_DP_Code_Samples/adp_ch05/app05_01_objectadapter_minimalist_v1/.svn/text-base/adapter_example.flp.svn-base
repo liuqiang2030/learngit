@@ -1,0 +1,7 @@
+﻿<flash_project name="object_adapter" version="1">
+    <project_file path=".:Adapter.as" filetype="as" />
+    <project_file path=".:Main.as" filetype="as" />
+    <project_file path=".:ITarget.as" filetype="as" />
+    <project_file path=".:Adaptee.as" filetype="as" />
+    <project_file path=".:adapter_example.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>

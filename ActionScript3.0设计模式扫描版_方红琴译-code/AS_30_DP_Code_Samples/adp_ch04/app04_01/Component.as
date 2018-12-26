@@ -1,0 +1,1 @@
+﻿package {	//Abstract Component in Decorator Design Pattern	//**************	//Abstract class	public class Component	{		internal var information:String;		public function getInformation():String		{			return information;		}	}}

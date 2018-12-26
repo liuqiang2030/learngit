@@ -1,0 +1,1 @@
+﻿package {	//Abstract class	public class Decorator extends Auto	{		override public function getInformation():String		{			return information;		}	}}

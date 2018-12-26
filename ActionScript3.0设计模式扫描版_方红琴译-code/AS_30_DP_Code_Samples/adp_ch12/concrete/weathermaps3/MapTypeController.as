@@ -1,0 +1,1 @@
+﻿package {	public class MapTypeController implements ICompInputHandler {				private var model:Object;				public function MapTypeController(aModel:INewModel) {			this.model = aModel;		}				public function compChangeHandler(index:uint):void {			(model as INewModel).setMapType(index); // update model		}	}}	

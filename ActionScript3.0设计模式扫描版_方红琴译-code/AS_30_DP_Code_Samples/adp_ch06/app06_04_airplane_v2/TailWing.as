@@ -1,0 +1,1 @@
+﻿package {		public class TailWing extends Component {				public function TailWing(weight:Number, damage:Number = 0) {			graphics.lineStyle(20, 0x999999);			graphics.moveTo(0, 0);			graphics.lineTo(30, 0);			super(weight, damage);		}	}}

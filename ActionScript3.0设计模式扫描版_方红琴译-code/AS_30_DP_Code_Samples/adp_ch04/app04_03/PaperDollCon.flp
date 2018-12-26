@@ -1,0 +1,13 @@
+﻿<flash_project name="PaperDollCon" version="1">
+    <project_file path=".:TestDress.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:Model.as" filetype="as" />
+    <project_file path=".:Dresser.as" filetype="as" />
+    <project_file path=".:Sue.as" filetype="as" />
+    <project_file path=".:Hat.as" filetype="as" />
+    <project_file path=".:FashionShow.as" filetype="as" />
+    <project_file path=".:OrangeDress.as" filetype="as" />
+    <project_file path=".:BlueDress.as" filetype="as" />
+    <project_file path=".:Bow.as" filetype="as" />
+    <project_file path=".:Umbrella.as" filetype="as" />
+    <project_file path=".:Muff.as" filetype="as" />
+</flash_project>

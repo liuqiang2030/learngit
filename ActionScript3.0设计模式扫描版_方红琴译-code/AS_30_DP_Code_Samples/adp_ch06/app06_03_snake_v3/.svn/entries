@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="397"
+   name=""
+   committed-date="2007-04-21T12:52:36.446216Z"
+   url="http://dev.chandima.info/svn/pubs/asdp/branches/edits2/composite/apps/app06_03_snake_v3"
+   last-author="chan"
+   kind="dir"
+   uuid="83b49c88-b9eb-4b0f-abf7-414987a05280"
+   repos="http://dev.chandima.info/svn/pubs"
+   revision="400"/>
+<entry
+   committed-rev="397"
+   name="snake.swf"
+   text-time="2007-04-21T12:53:48.000000Z"
+   committed-date="2007-04-21T12:52:36.446216Z"
+   checksum="8041d564b40193ab696a234adf5dbe10"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+<entry
+   committed-rev="397"
+   name="snake.flp"
+   text-time="2007-04-21T12:53:48.000000Z"
+   committed-date="2007-04-21T12:52:36.446216Z"
+   checksum="d1d788e2c074961189a49a5cc4e56044"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+<entry
+   committed-rev="397"
+   name="BodySegment.as"
+   text-time="2007-04-21T12:53:48.000000Z"
+   committed-date="2007-04-21T12:52:36.446216Z"
+   checksum="83fa08c0834acbde0c58f01aa5a202da"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+<entry
+   committed-rev="397"
+   name="snake.fla"
+   text-time="2007-04-21T12:53:48.000000Z"
+   committed-date="2007-04-21T12:52:36.446216Z"
+   checksum="496550929408f789ea6d96bc512046ff"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+<entry
+   committed-rev="397"
+   name="Head.as"
+   text-time="2007-04-21T12:53:48.000000Z"
+   committed-date="2007-04-21T12:52:36.446216Z"
+   checksum="9c1d9a8f462b9ba4f09f243433b78469"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+<entry
+   committed-rev="397"
+   name="Component.as"
+   text-time="2007-04-21T12:53:48.000000Z"
+   committed-date="2007-04-21T12:52:36.446216Z"
+   checksum="dd2fc16b22c87d93a4860538328c87a4"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+<entry
+   committed-rev="397"
+   name="Composite.as"
+   text-time="2007-04-21T12:53:48.000000Z"
+   committed-date="2007-04-21T12:52:36.446216Z"
+   checksum="70d03e19d71c19e902969f0dda47c9f3"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+<entry
+   committed-rev="397"
+   name="Main.as"
+   text-time="2007-04-21T12:53:48.000000Z"
+   committed-date="2007-04-21T12:52:36.446216Z"
+   checksum="547ef12a185d6b4c6a4de0c21d893ca0"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+<entry
+   committed-rev="397"
+   name="Tail.as"
+   text-time="2007-04-21T12:53:48.000000Z"
+   committed-date="2007-04-21T12:52:36.446216Z"
+   checksum="1d853f5400bd71a443cbbd3e682421f0"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:48.000000Z"/>
+</wc-entries>

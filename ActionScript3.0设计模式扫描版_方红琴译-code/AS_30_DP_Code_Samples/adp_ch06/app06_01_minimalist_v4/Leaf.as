@@ -1,0 +1,1 @@
+﻿package {		public class Leaf extends Component {			private var sName:String;				public function Leaf(sName:String) {			this.sName = sName;		}				override public function operation():void {			trace(this.sName);		}	}}

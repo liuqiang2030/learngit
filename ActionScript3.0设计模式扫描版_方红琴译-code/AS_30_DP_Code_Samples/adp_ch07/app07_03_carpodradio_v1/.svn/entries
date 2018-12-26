@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="406"
+   name=""
+   committed-date="2007-04-24T01:07:18.629141Z"
+   url="http://dev.chandima.info/svn/pubs/asdp/branches/edits2/command/apps/app07_03_carpodradio_v1"
+   last-author="chan"
+   kind="dir"
+   repos="http://dev.chandima.info/svn/pubs"
+   revision="406"/>
+<entry
+   committed-rev="406"
+   name="Radio.as"
+   text-time="2007-03-03T02:18:22.000000Z"
+   committed-date="2007-04-24T01:07:18.629141Z"
+   checksum="2643529658644f5804d21b7102ae1e63"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:06:39.000000Z"/>
+<entry
+   name="utils"
+   kind="dir"/>
+<entry
+   committed-rev="406"
+   name="ControlButtons.as"
+   text-time="2007-03-03T02:18:22.000000Z"
+   committed-date="2007-04-24T01:07:18.629141Z"
+   checksum="eed9ab1f0ad1c22a719736b4e86716e5"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:06:39.000000Z"/>
+<entry
+   committed-rev="406"
+   name="PlayPodcastCommand.as"
+   text-time="2007-03-03T02:18:22.000000Z"
+   committed-date="2007-04-24T01:07:18.629141Z"
+   checksum="f4a5a5ab13447d926e5966794565b8c8"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:06:39.000000Z"/>
+<entry
+   committed-rev="406"
+   name="Main.as"
+   text-time="2007-03-03T02:18:22.000000Z"
+   committed-date="2007-04-24T01:07:18.629141Z"
+   checksum="dfc4028ab180b6798bc1864fb6cf694a"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:06:39.000000Z"/>
+<entry
+   committed-rev="406"
+   name="command_example.swf"
+   text-time="2007-03-03T02:18:22.000000Z"
+   committed-date="2007-04-24T01:07:18.629141Z"
+   checksum="4ef2fa8fc4bf9d8a1f3242eda83e039f"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:06:39.000000Z"/>
+<entry
+   committed-rev="406"
+   name="command_example.flp"
+   text-time="2007-03-03T02:18:22.000000Z"
+   committed-date="2007-04-24T01:07:18.629141Z"
+   checksum="1be33f47fc13ad30c056f42187603182"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:06:39.000000Z"/>
+<entry
+   committed-rev="406"
+   name="ICommand.as"
+   text-time="2007-03-03T02:18:22.000000Z"
+   committed-date="2007-04-24T01:07:18.629141Z"
+   checksum="dc9a902066b0fe8643184744f71b0c26"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:06:39.000000Z"/>
+<entry
+   committed-rev="406"
+   name="command_example.fla"
+   text-time="2007-03-03T02:18:22.000000Z"
+   committed-date="2007-04-24T01:07:18.629141Z"
+   checksum="44066ca759070570474aa135f7bf77bf"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:06:39.000000Z"/>
+</wc-entries>

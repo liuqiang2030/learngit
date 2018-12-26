@@ -1,0 +1,1 @@
+﻿package {		import flash.events.*;		public class Fuselage extends Composite {				public function Fuselage(weight:Number, damage:Number = 0) {			graphics.lineStyle(40, 0xC0C0C0);			graphics.moveTo(0, 0);			graphics.lineTo(0, 150);			super(weight, damage);		}	}}

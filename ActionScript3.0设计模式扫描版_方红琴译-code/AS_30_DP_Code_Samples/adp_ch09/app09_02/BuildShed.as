@@ -1,0 +1,1 @@
+﻿package {	import flash.display.Sprite;	public class BuildShed extends Sprite	{		public function BuildShed ()		{			//Make a steel shed			var steel:ShedMaker=new SteelShed();			steel.templateMethod ();			//Make a wood shed			var wood:ShedMaker=new WoodShed();			wood.templateMethod ();		}	}}

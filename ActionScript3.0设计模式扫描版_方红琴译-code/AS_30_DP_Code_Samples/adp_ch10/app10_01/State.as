@@ -1,0 +1,1 @@
+﻿package {	//State Machine Interface	interface State	{		function startPlay():void;		function stopPlay():void;	}}

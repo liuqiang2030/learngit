@@ -1,0 +1,7 @@
+﻿<flash_project name="airplane" version="1">
+    <project_file path=".:airplane.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:Main.as" filetype="as" />
+    <project_file path=".:IPlane.as" filetype="as" />
+    <project_file path=".:Composite.as" filetype="as" />
+    <project_file path=".:Component.as" filetype="as" />
+</flash_project>

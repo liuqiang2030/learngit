@@ -1,0 +1,1 @@
+﻿package {	//Falls down a ladder	public class FallDown implements Skits	{		public function skit():void		{			trace("I'm climbing up this ladder!")			trace("Where's my banana peel?")			trace("Whoaaaa! I'm falling!!")			trace("Thanks for finding my banana peel!\n")		}	}}

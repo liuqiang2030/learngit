@@ -1,0 +1,7 @@
+﻿<flash_project name="prog2Interface" version="1">
+    <project_file path=".:SpaceWarrior.as" filetype="as" />
+    <project_file path=".:MainTest.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:Earthling.as" filetype="as" />
+    <project_file path=".:Main.as" filetype="as" />
+    <project_file path=".:Alien.as" filetype="as" />
+</flash_project>

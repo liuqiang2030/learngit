@@ -1,0 +1,14 @@
+﻿<flash_project name="Shapes" version="1">
+    <project_folder name="shapecreators" expanded="true">
+        <project_file path=".:shapecreators/ShapeCreator.as" filetype="as" />
+        <project_file path=".:shapecreators/ShapeWidget.as" filetype="as" />
+        <project_file path=".:shapecreators/SquareWidget.as" filetype="as" />
+        <project_file path=".:shapecreators/FilledCircleWidget.as" filetype="as" />
+        <project_file path=".:shapecreators/FilledSquareWidget.as" filetype="as" />
+        <project_file path=".:shapecreators/CircleWidget.as" filetype="as" />
+        <project_file path=".:shapecreators/FilledShapeCreator.as" filetype="as" />
+        <project_file path=".:shapecreators/UnfilledShapeCreator.as" filetype="as" />
+    </project_folder>
+    <project_file path=".:Main.as" filetype="as" />
+    <project_file path=".:Shapes.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>

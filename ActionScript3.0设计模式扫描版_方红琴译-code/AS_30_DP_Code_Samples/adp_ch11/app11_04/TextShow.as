@@ -1,0 +1,1 @@
+﻿package {	import flash.text.TextFormat;	class TextShow extends TextFormat	{		function TextShow():void		{			this.font="Verdana";			this.color=0xcc0000;			this.size=11;			this.leading=3;			this.leftMargin=11;			this.rightMargin=6;		}	}}

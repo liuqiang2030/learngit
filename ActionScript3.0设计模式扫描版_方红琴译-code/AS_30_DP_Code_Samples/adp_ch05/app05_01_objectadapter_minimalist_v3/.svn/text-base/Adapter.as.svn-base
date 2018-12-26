@@ -1,0 +1,1 @@
+﻿package {	public class Adapter implements ITarget {				private var adaptee:Adaptee;				public function Adapter() { // constructor			this.adaptee = new Adaptee();		}				public function request():void {			adaptee.specificRequest();		}				public function newOperation():void {			trace("Called Adapter:newOperation()");		}	}}

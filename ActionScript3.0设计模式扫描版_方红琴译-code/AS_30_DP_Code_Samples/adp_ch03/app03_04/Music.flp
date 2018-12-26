@@ -1,0 +1,5 @@
+﻿<flash_project name="Music" version="1">
+    <project_file path=".:Tuner.as" filetype="as" />
+    <project_file path=".:DoMusicBtn.as" filetype="as" />
+    <project_file path=".:MusicBtn.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>

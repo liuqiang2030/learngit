@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="398"
+   name=""
+   committed-date="2007-04-21T12:52:43.714064Z"
+   url="http://dev.chandima.info/svn/pubs/asdp/branches/edits2/composite/apps/app06_04_airplane_v1"
+   last-author="chan"
+   kind="dir"
+   uuid="83b49c88-b9eb-4b0f-abf7-414987a05280"
+   repos="http://dev.chandima.info/svn/pubs"
+   revision="400"/>
+<entry
+   committed-rev="398"
+   name="Component.as"
+   text-time="2007-04-21T12:53:50.000000Z"
+   committed-date="2007-04-21T12:52:43.714064Z"
+   checksum="a42edb2d6e14e75e0d85327fe0b42af3"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:50.000000Z"/>
+<entry
+   committed-rev="398"
+   name="Composite.as"
+   text-time="2007-04-21T12:53:50.000000Z"
+   committed-date="2007-04-21T12:52:43.714064Z"
+   checksum="e41bb28f07c4926b3326f201c792dca0"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:50.000000Z"/>
+<entry
+   committed-rev="398"
+   name="Main.as"
+   text-time="2007-04-21T12:53:50.000000Z"
+   committed-date="2007-04-21T12:52:43.714064Z"
+   checksum="eba793554a32c1cc8c45b8e579523902"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:50.000000Z"/>
+<entry
+   committed-rev="398"
+   name="airplane.swf"
+   text-time="2007-04-21T12:53:50.000000Z"
+   committed-date="2007-04-21T12:52:43.714064Z"
+   checksum="b2b115f9174ea3b687aeedaa9d968208"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:50.000000Z"/>
+<entry
+   committed-rev="398"
+   name="IPlane.as"
+   text-time="2007-04-21T12:53:50.000000Z"
+   committed-date="2007-04-21T12:52:43.714064Z"
+   checksum="c170de0062e4e850968c828d33a5cfb7"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:50.000000Z"/>
+<entry
+   committed-rev="398"
+   name="airplane.flp"
+   text-time="2007-04-21T12:53:50.000000Z"
+   committed-date="2007-04-21T12:52:43.714064Z"
+   checksum="8a15ac9878c78da2e83b3578e117e256"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:50.000000Z"/>
+<entry
+   committed-rev="398"
+   name="airplane.fla"
+   text-time="2007-04-21T12:53:50.000000Z"
+   committed-date="2007-04-21T12:52:43.714064Z"
+   checksum="1fa9a24a3f73b8ad0735bdbc1787b7e4"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:50.000000Z"/>
+</wc-entries>

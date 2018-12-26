@@ -1,0 +1,15 @@
+﻿<flash_project name="command_example" version="1">
+    <project_folder name="utils" expanded="false">
+        <project_file path=".:utils/TextDisplayField.as" filetype="as" />
+        <project_file path=".:utils/TextButton.as" filetype="as" />
+    </project_folder>
+    <project_file path=".:command_example.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:Main.as" filetype="as" />
+    <project_file path=".:Radio.as" filetype="as" />
+    <project_file path=".:PlayPodcastCommand.as" filetype="as" />
+    <project_file path=".:DynamicControlButtons.as" filetype="as" />
+    <project_file path=".:SetToNewsGenreCommand.as" filetype="as" />
+    <project_file path=".:SetToMusicGenreCommand.as" filetype="as" />
+    <project_file path=".:ICommand.as" filetype="as" />
+    <project_file path=".:ControlButtons.as" filetype="as" />
+</flash_project>

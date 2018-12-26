@@ -1,0 +1,9 @@
+﻿<flash_project name="VidTune" version="1">
+    <project_file path=".:VidAudio.as" filetype="as" />
+    <project_file path=".:Vid.as" filetype="as" />
+    <project_file path=".:PlayVideo.as" filetype="as" />
+    <project_file path=".:PlayTune.as" filetype="as" />
+    <project_file path=".:PlayMedia.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:PlayMedia.as" filetype="as" />
+    <project_file path=".:Audio.as" filetype="as" />
+</flash_project>

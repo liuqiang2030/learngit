@@ -1,0 +1,1 @@
+﻿package printcenters {		import printcenters.*;		// High Volume Print Center (subclass of PrintCenter)	public class FancyPrintCenter extends PrintCenter {			override protected function createPrintjob():IPrintjob { 			trace("Creating new printjob for the multifunction printer");			return new MultifunctionPrintJob();		}	}}

@@ -1,0 +1,1 @@
+﻿package {		class Receiver {				public function action() {			trace("Receiver: doing action");		}	}}

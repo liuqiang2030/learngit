@@ -1,0 +1,1 @@
+﻿package {	class BubblePants implements Tricks	{		public function trick():void		{			trace("Woo woo woo! Bubbles are coming out of my pants!\n");		}	}}

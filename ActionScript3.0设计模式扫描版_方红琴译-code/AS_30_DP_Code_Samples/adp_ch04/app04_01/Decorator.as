@@ -1,0 +1,1 @@
+﻿package {	//Abstract Decorator in Decorator Design Pattern	//**************	//Abstract class	public class Decorator extends Component	{		trace("|*|Decorator|*|");		override public function getInformation():String		{			return information;		}	}}

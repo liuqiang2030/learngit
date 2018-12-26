@@ -1,0 +1,1 @@
+﻿package {		import flash.display.MovieClip;	/** 	*	Main Class	*	@ purpose:		Document class for movie	*/	public class Main extends MovieClip {		public function Main() {						var adaptee:Adaptee = new Adaptee();			var target:ITarget = new Adapter(adaptee);						target.request();		}	}}

@@ -1,0 +1,1 @@
+﻿package {	import flash.display.Sprite;	public class DoMusic extends Sprite	{		public function DoMusic()		{			var playOne:Tuner = Tuner.getInstance();			playOne.playMe("blues.mp3");		}	}}

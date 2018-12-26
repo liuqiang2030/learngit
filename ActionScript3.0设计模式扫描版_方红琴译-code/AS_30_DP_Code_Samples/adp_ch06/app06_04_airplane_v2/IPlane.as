@@ -1,0 +1,1 @@
+﻿package {		public interface IPlane {		function getDamage():Number;		function getWeight():Number;	}}

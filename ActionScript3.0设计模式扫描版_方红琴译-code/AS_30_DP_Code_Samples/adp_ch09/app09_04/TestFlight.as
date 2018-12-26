@@ -1,0 +1,1 @@
+﻿package {	import flash.display.Sprite;	public class TestFlight extends Sprite	{		public function TestFlight ()		{			var takeOff:BajaFlight=new FlightPlan();			takeOff.templateMethod ();			var grounded:BajaFlight=new Cloudy();			grounded.templateMethod ();		}	}}

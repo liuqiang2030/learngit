@@ -1,0 +1,1 @@
+﻿package {	class SteelShed extends ShedMaker	{		trace ("SteelShed");		override protected function doDesign ():void		{			trace ("Designing Steel Shed");		}		override protected function determineSupplies ():void		{			trace ("Ok I'll need some corregated sheet metal.");			trace ("Better get some steel fasteners too.");		}	}}

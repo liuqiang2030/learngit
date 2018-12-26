@@ -1,0 +1,12 @@
+﻿<flash_project name="DesignData" version="1">
+    <project_file path=".:ConcreteSubject.as" filetype="as" />
+    <project_file path=".:Subject.as" filetype="as" />
+    <project_file path=".:ConcreteObserver.as" filetype="as" />
+    <project_file path=".:Observer.as" filetype="as" />
+    <project_file path=".:DataDesign.as" filetype="as" />
+    <project_file path=".:DoDesign.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:QuarterList.as" filetype="as" />
+    <project_file path=".:DataOut.as" filetype="as" />
+    <project_file path=".:QuarterGraph.as" filetype="as" />
+    <project_file path=".:QuarterBar.as" filetype="as" />
+</flash_project>

@@ -1,0 +1,1 @@
+﻿package{	public class GPS extends Decorator	{		var auto:Auto;		public function GPS(auto:Auto) 		{			this.auto=auto;		}		override public function getInformation():String		{			return auto.getInformation() + "  Global Positioning System~";		}		override public function price():Number		{			return 345.88  + auto.price();		}	}}

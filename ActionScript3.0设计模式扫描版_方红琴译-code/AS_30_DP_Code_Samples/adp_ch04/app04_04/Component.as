@@ -1,0 +1,1 @@
+﻿package {	//Abstract class	public class Component	{		var soul:String="All that is inside a spirit";		var goodness:Number;		var vice:Number;		public function getSoul():String		{			return soul;		}		public function good():Number		{			return goodness;		}		public function evil():Number		{			return 0;		}	}}

@@ -1,0 +1,1 @@
+﻿package {	//Juggle Balls	public class Juggle implements Tricks	{		public function trick():void		{			trace("Look at me juggle! Whoops!\n")		}	}}

@@ -1,0 +1,1 @@
+﻿package {		import flash.text.TextField;		class IncrementCommand implements ICommand {				var receiver:TextField;				public function IncrementCommand(rec:TextField):void {			this.receiver = rec;		}				public function execute():void {			receiver.text = String(Number(receiver.text) + 1);		}	}}

@@ -1,0 +1,1 @@
+﻿package {	class Bubbles extends Clown	{		trace("* =>Bubbles<= *");		public function Bubbles()		{			tricks=new Juggle();			skits = new FallDown();		}	}}

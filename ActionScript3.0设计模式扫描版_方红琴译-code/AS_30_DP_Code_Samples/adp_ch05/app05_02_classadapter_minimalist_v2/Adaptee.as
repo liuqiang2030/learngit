@@ -1,0 +1,1 @@
+﻿package {		public class Adaptee {				public function requestA():void {			trace("Called Adaptee:requestA()");		}				public function requestB():void {			trace("Called Adaptee:requestB()");		}				public function requestC():void {			trace("Called Adaptee:requestC()");		}	}}

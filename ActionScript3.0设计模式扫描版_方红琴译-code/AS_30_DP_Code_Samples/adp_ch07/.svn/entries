@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="406"
+   name=""
+   committed-date="2007-04-24T01:07:18.629141Z"
+   url="http://dev.chandima.info/svn/pubs/asdp/branches/edits2/command/apps"
+   last-author="chan"
+   kind="dir"
+   repos="http://dev.chandima.info/svn/pubs"
+   revision="406"/>
+<entry
+   name="app07_01_minimalist_v1"
+   kind="dir"/>
+<entry
+   name="app07_01_minimalist_v2"
+   kind="dir"/>
+<entry
+   name="app07_01_minimalist_v3"
+   kind="dir"/>
+<entry
+   name="app07_03_carpodradio_v1"
+   kind="dir"/>
+<entry
+   name="app07_03_carpodradio_v2"
+   kind="dir"/>
+<entry
+   name="app07_02_numbers_v1"
+   kind="dir"/>
+<entry
+   name="app07_02_numbers_v2"
+   kind="dir"/>
+<entry
+   name="app07_02_numbers_v3"
+   kind="dir"/>
+</wc-entries>

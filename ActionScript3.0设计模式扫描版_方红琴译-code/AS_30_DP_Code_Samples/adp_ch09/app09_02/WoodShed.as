@@ -1,0 +1,1 @@
+﻿package {	class WoodShed extends ShedMaker	{		trace ("WoodShed");		override protected function doDesign ():void		{			trace ("Designing Wood Shed");		}		override protected function determineSupplies ():void		{			trace ("I'll do it with 1 X 12's for the walls.");			trace ("The rest I'll do with 2 X 4's.");		}	}}

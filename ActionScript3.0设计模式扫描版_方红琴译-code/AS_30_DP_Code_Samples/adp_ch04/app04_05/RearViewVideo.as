@@ -1,0 +1,1 @@
+﻿package{	public class RearViewVideo extends Decorator	{		var auto:Auto;		public function RearViewVideo(auto:Auto) 		{			this.auto=auto;		}		override public function getInformation():String		{			return auto.getInformation() + "  Rear View Video~";		}		override public function price():Number		{			return 560.75 + auto.price();		}	}}

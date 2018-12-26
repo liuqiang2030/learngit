@@ -1,0 +1,1 @@
+﻿package {	import flash.display.Sprite;	public class SingletonTest extends Sprite	{		public function SingletonTest()		{			var initialSingleton:Singleton = Singleton.getInstance();			var subsequentSingleton:Singleton = Singleton.getInstance();		}	}}

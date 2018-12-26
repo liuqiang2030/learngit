@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="394"
+   name=""
+   committed-date="2007-04-21T12:52:13.114478Z"
+   url="http://dev.chandima.info/svn/pubs/asdp/branches/edits2/composite/apps/app06_02_playlists_v2/music"
+   last-author="chan"
+   kind="dir"
+   uuid="83b49c88-b9eb-4b0f-abf7-414987a05280"
+   repos="http://dev.chandima.info/svn/pubs"
+   revision="400"/>
+<entry
+   committed-rev="394"
+   name="electricpiano.mp3"
+   text-time="2007-04-21T12:53:49.000000Z"
+   committed-date="2007-04-21T12:52:13.114478Z"
+   checksum="37187c374cc283462ca09cf4c268cca4"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:49.000000Z"/>
+<entry
+   committed-rev="394"
+   name="latindrums.mp3"
+   text-time="2007-04-21T12:53:49.000000Z"
+   committed-date="2007-04-21T12:52:13.114478Z"
+   checksum="187f8fdb9ab35ddf3fd9a159f6b6bf2a"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:49.000000Z"/>
+<entry
+   committed-rev="394"
+   name="tabla.mp3"
+   text-time="2007-04-21T12:53:49.000000Z"
+   committed-date="2007-04-21T12:52:13.114478Z"
+   checksum="790cf84627b33ce7901c37efe576fdfb"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:49.000000Z"/>
+<entry
+   committed-rev="394"
+   name="bongo.mp3"
+   text-time="2007-04-21T12:53:49.000000Z"
+   committed-date="2007-04-21T12:52:13.114478Z"
+   checksum="8685d5818d494f754fb6e18df342e5e4"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:49.000000Z"/>
+<entry
+   committed-rev="394"
+   name="acousticguitar.mp3"
+   text-time="2007-04-21T12:53:49.000000Z"
+   committed-date="2007-04-21T12:52:13.114478Z"
+   checksum="28ffb10b8d762f95a967587f904b3be7"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:49.000000Z"/>
+<entry
+   committed-rev="394"
+   name="balladpiano.mp3"
+   text-time="2007-04-21T12:53:49.000000Z"
+   committed-date="2007-04-21T12:52:13.114478Z"
+   checksum="379bae148d4a0aa88229f29be65ce0b4"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:49.000000Z"/>
+<entry
+   committed-rev="394"
+   name="djembe.mp3"
+   text-time="2007-04-21T12:53:49.000000Z"
+   committed-date="2007-04-21T12:52:13.114478Z"
+   checksum="bc1524ceb8e6a3322e86254996ed461f"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:49.000000Z"/>
+<entry
+   committed-rev="394"
+   name="electricguitar.mp3"
+   text-time="2007-04-21T12:53:49.000000Z"
+   committed-date="2007-04-21T12:52:13.114478Z"
+   checksum="97080d769ee0c2274397488cfc24bd66"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:49.000000Z"/>
+<entry
+   committed-rev="394"
+   name="banjo.mp3"
+   text-time="2007-04-21T12:53:49.000000Z"
+   committed-date="2007-04-21T12:52:13.114478Z"
+   checksum="c98a386906f7f459248c3ae528fcf3bb"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:49.000000Z"/>
+</wc-entries>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="405"
+   name=""
+   committed-date="2007-04-24T01:06:15.957317Z"
+   url="http://dev.chandima.info/svn/pubs/asdp/branches/edits2/adapter/apps/app05_05_classadapter_list_display_v2"
+   last-author="chan"
+   kind="dir"
+   repos="http://dev.chandima.info/svn/pubs"
+   revision="405"/>
+<entry
+   committed-rev="405"
+   name="Main.as"
+   text-time="2007-03-19T18:07:44.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="8ea90a403d0e5a6a98663adf7d799984"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="405"
+   name="ListDisplayField.as"
+   text-time="2006-09-30T10:19:12.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="6167845e40e4dd723e20ff113d314b40"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="405"
+   name="list_display_example.swf"
+   text-time="2007-03-19T18:07:44.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="39079774f43b01721975672918fb4833"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:04:27.000000Z"/>
+<entry
+   committed-rev="405"
+   name="list_display_example.flp"
+   text-time="2006-09-24T17:09:20.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="86d82730f19817d365e55e432e85719b"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="405"
+   name="IListDisplay.as"
+   text-time="2006-09-24T17:09:20.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="5da8f9dae7ab3f0a728c05f0cbc4e389"
+   last-author="chan"
+   kind="file"/>
+<entry
+   committed-rev="405"
+   name="list_display_example.fla"
+   text-time="2006-09-30T10:19:12.000000Z"
+   committed-date="2007-04-24T01:06:15.957317Z"
+   checksum="6dd85944568ae44b8e4ee6492ef823ad"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-24T01:04:27.000000Z"/>
+</wc-entries>

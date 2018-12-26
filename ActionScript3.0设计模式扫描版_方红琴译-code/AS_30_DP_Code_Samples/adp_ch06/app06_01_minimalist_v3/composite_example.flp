@@ -1,0 +1,7 @@
+﻿<flash_project name="composite_example" version="1">
+    <project_file path=".:Main.as" filetype="as" />
+    <project_file path=".:Component.as" filetype="as" />
+    <project_file path=".:Leaf.as" filetype="as" />
+    <project_file path=".:Composite.as" filetype="as" />
+    <project_file path=".:composite_example.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>

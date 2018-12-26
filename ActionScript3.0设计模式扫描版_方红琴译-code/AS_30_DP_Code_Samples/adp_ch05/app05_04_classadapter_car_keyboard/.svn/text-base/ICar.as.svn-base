@@ -1,0 +1,1 @@
+﻿package {		public interface ICar {		function start():void		function turnMoreToTheLeft():void		function turnMoreToTheRight():void		function goStraight():void	}}

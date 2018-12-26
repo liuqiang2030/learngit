@@ -1,0 +1,12 @@
+﻿<flash_project name="minimalist_example" version="1">
+    <project_file path=".:mvc_example.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:Main.as" filetype="as" />
+    <project_file path=".:Controller.as" filetype="as" />
+    <project_file path=".:CompositeView.as" filetype="as" />
+    <project_file path=".:ComponentView.as" filetype="as" />
+    <project_file path=".:MapView.as" filetype="as" />
+    <project_file path=".:Model.as" filetype="as" />
+    <project_file path=".:IModel.as" filetype="as" />
+    <project_file path=".:CBView.as" filetype="as" />
+    <project_file path=".:ICompInputHandler.as" filetype="as" />
+</flash_project>

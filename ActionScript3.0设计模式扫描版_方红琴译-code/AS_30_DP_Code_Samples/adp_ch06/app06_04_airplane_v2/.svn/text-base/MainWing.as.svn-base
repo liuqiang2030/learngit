@@ -1,0 +1,1 @@
+﻿package {		public class MainWing extends Composite {				public function MainWing(weight:Number, damage:Number = 0) {			graphics.lineStyle(25, 0x999999);			graphics.moveTo(0, 0);			graphics.lineTo(100, 0);			super(weight, damage);		}	}}

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="400"
+   name=""
+   committed-date="2007-04-21T12:52:56.478156Z"
+   url="http://dev.chandima.info/svn/pubs/asdp/branches/edits2/composite/apps/app06_04_airplane_v3"
+   last-author="chan"
+   kind="dir"
+   uuid="83b49c88-b9eb-4b0f-abf7-414987a05280"
+   repos="http://dev.chandima.info/svn/pubs"
+   revision="400"/>
+<entry
+   committed-rev="400"
+   name="TailWing.as"
+   text-time="2007-04-21T12:53:51.000000Z"
+   committed-date="2007-04-21T12:52:56.478156Z"
+   checksum="4298c43ff5e10259f18bcd77738760f6"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:51.000000Z"/>
+<entry
+   committed-rev="400"
+   name="Component.as"
+   text-time="2007-04-21T12:53:51.000000Z"
+   committed-date="2007-04-21T12:52:56.478156Z"
+   checksum="a42edb2d6e14e75e0d85327fe0b42af3"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:51.000000Z"/>
+<entry
+   committed-rev="400"
+   name="Composite.as"
+   text-time="2007-04-21T12:53:51.000000Z"
+   committed-date="2007-04-21T12:52:56.478156Z"
+   checksum="e41bb28f07c4926b3326f201c792dca0"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:51.000000Z"/>
+<entry
+   committed-rev="400"
+   name="Main.as"
+   text-time="2007-04-21T12:53:51.000000Z"
+   committed-date="2007-04-21T12:52:56.478156Z"
+   checksum="1b8dfa032faf9bf6bb67aea1d5da17ef"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:51.000000Z"/>
+<entry
+   committed-rev="400"
+   name="Engine.as"
+   text-time="2007-04-21T12:53:51.000000Z"
+   committed-date="2007-04-21T12:52:56.478156Z"
+   checksum="d8bfd82a1b73142b8c8bde229f731b13"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:51.000000Z"/>
+<entry
+   committed-rev="400"
+   name="airplane.swf"
+   text-time="2007-04-21T12:53:51.000000Z"
+   committed-date="2007-04-21T12:52:56.478156Z"
+   checksum="9521cd550a2e5c15e8843ddebacb7ee0"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:51.000000Z"/>
+<entry
+   committed-rev="400"
+   name="IPlane.as"
+   text-time="2007-04-21T12:53:51.000000Z"
+   committed-date="2007-04-21T12:52:56.478156Z"
+   checksum="c170de0062e4e850968c828d33a5cfb7"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:51.000000Z"/>
+<entry
+   committed-rev="400"
+   name="MainWing.as"
+   text-time="2007-04-21T12:53:51.000000Z"
+   committed-date="2007-04-21T12:52:56.478156Z"
+   checksum="2864b99606f062a81f9425e6372f84eb"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:51.000000Z"/>
+<entry
+   committed-rev="400"
+   name="airplane.flp"
+   text-time="2007-04-21T12:53:51.000000Z"
+   committed-date="2007-04-21T12:52:56.478156Z"
+   checksum="9dcfceb9749385aa4b590d96ba58f47a"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:51.000000Z"/>
+<entry
+   committed-rev="400"
+   name="airplane.fla"
+   text-time="2007-04-21T12:53:51.000000Z"
+   committed-date="2007-04-21T12:52:56.478156Z"
+   checksum="18118ac197773ebca63aff3e5204b86b"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:51.000000Z"/>
+<entry
+   committed-rev="400"
+   name="Fuselage.as"
+   text-time="2007-04-21T12:53:51.000000Z"
+   committed-date="2007-04-21T12:52:56.478156Z"
+   checksum="287b88a3f1c97c20a5b97f3886bd706d"
+   last-author="chan"
+   kind="file"
+   prop-time="2007-04-21T12:53:51.000000Z"/>
+</wc-entries>

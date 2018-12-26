@@ -1,0 +1,5 @@
+﻿<flash_project name="car_example" version="1">
+    <project_file path=".:Main.as" filetype="as" />
+    <project_file path=".:car_example.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:LegacyCar.as" filetype="as" />
+</flash_project>

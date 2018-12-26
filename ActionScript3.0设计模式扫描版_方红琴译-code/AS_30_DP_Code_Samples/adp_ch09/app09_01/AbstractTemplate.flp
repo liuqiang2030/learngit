@@ -1,0 +1,6 @@
+﻿<flash_project name="AbstractTemplate" version="1">
+    <project_file path=".:TestTemplate.fla" filetype="fla" profile="" />
+    <project_file path=".:ConcreteClass.as" filetype="as" />
+    <project_file path=".:TestTemplate.as" filetype="as" />
+    <project_file path=".:AbstractClass.as" filetype="as" />
+</flash_project>

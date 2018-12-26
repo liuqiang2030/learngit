@@ -1,0 +1,5 @@
+﻿<flash_project name="DevSingleton" version="1">
+    <project_file path=".:SingletonTest.as" filetype="as" />
+    <project_file path=".:Singleton.as" filetype="as" />
+    <project_file path=".:Singtest.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>

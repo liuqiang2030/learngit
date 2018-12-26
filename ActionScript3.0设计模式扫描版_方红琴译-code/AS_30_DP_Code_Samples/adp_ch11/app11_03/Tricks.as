@@ -1,0 +1,1 @@
+﻿package {		interface Tricks	{		function trick():void;	}}

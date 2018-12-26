@@ -1,0 +1,1 @@
+﻿package {		public class Head extends Composite {				public function Head(color:uint = 0xC0C0C0) {			graphics.lineStyle(20, color); // grey color			graphics.moveTo(0, 0);			graphics.lineTo(20, 0);		}	}}

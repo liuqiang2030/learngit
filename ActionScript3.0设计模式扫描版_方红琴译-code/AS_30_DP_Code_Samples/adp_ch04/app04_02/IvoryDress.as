@@ -1,0 +1,1 @@
+﻿package{	public class IvorytDress extends Dresser	{		var model:Model;		public function IvorytDress(model:Model) {			this.model=model;		}		override public function getDressed():String		{			return model.getDressed() + " ivorydress";		}	}}

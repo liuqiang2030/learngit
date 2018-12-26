@@ -1,0 +1,1 @@
+﻿package{	public class Jane extends Component	{		public function Jane() 		{			soul = "Jane's soul\n";			goodness=0;			vice=0;					}	}}

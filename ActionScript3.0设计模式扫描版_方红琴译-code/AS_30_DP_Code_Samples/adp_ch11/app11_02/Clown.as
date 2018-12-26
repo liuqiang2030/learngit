@@ -1,0 +1,1 @@
+﻿package {	class Clown	{		var tricks:Tricks;		var skits:Skits;				public function Clown()		{		}		public function doTrick():void		{			tricks.trick();		}				public function doSkit():void		{			skits.skit();		}	}}

@@ -1,0 +1,1 @@
+﻿package {	//Strategy	interface StringWork	{		function stringer(s:String):String;	}}

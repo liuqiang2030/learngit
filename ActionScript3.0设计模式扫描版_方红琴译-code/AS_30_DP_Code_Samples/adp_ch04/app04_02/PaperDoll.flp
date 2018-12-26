@@ -1,0 +1,12 @@
+﻿<flash_project name="PaperDoll" version="1">
+    <project_file path=".:Dresser.as" filetype="as" />
+    <project_file path=".:Sue.as" filetype="as" />
+    <project_file path=".:TestDress.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:WhiteDress.as" filetype="as" />
+    <project_file path=".:Model.as" filetype="as" />
+    <project_file path=".:Coat.as" filetype="as" />
+    <project_file path=".:PinkDress.as" filetype="as" />
+    <project_file path=".:IvoryDress.as" filetype="as" />
+    <project_file path=".:Main.as" filetype="as" />
+    <project_file path=".:Hat.as" filetype="as" />
+</flash_project>

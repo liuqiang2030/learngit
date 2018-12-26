@@ -1,0 +1,1 @@
+﻿package {	//Any concrete class	public class ConcreteClass extends AbstractClass	{		trace ("Concrete class");		override protected function primitiveA ():void		{			trace ("Special A");		}		override protected function primitiveB ():void		{			trace ("Special B");		}	}}

@@ -1,0 +1,1 @@
+﻿package {	//Concrete Strategy	class SimpleSort implements SortWork	{		public function sorter(a:Array):Array		{			a.sort();			return a;		}	}}

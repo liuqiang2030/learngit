@@ -1,0 +1,1 @@
+﻿package{	//Observer Interface	public interface Observer	{		function update(light:String):void;	}}		

@@ -1,0 +1,1 @@
+﻿package {	class ConcreteStrategy implements Strategy	{		public function think():void		{			trace("Great thoughts now...");		}	}}

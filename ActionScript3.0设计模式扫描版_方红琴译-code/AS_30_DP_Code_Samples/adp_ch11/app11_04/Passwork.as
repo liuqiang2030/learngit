@@ -1,0 +1,1 @@
+﻿package {	//Concrete Context	class Passwork extends StringChecker	{		public function Passwork():void 		{			stringWork = new PasswordVerify();				sortWork = new SortAll();		}	}}

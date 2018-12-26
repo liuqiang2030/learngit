@@ -1,0 +1,1 @@
+﻿package {	//Clowns chase each other	public class Chase implements Skits	{		public function skit():void		{			trace("Here I come! I'm going to get you!")			trace("Nah! Nah! Can't catch me!\n")		}	}}

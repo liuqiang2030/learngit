@@ -1,0 +1,1 @@
+﻿package {		public class Adaptee {				public function specificRequest():void {			trace("Called Adaptee:specificRequest()");		}	}}
